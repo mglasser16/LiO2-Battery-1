@@ -34,7 +34,7 @@ phases:
     P: 1 atm
     X: {C3H4O3(e): 0.5591308, C4H8O3(e): 0.2832813, Li+(e): 0.07873, 
       PF6-(e): 0.07873, O2(e): 1.2769e-4}
-  density: 120.2 kg/m^3
+  density: 1260.2 kg/m^3
   standard-concentration-basis: unity
 
 - name: lithium-bulk
